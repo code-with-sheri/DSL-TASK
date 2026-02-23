@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "The Art of Roasting",
+    "date": "Feb 20, 2026",
+    "excerpt": "Discover the secret behind our signature Java Buzz roast and how we achieve the perfect flavor profile.",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&q=80&w=400&h=300"
+  },
+  {
+    "id": 2,
+    "title": "5 Tips for Home Brewing",
+    "date": "Feb 18, 2026",
+    "excerpt": "Learn how to make coffee-shop quality drinks at home with these simple brewing techniques.",
+    "image": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?auto=format&fit=crop&q=80&w=400&h=300"
+  },
+  {
+    "id": 3,
+    "title": "Meet Our Barista: Sarah",
+    "date": "Feb 15, 2026",
+    "excerpt": "Get to know the person behind your morning cup and her favorite latte art designs.",
+    "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&q=80&w=400&h=300"
+  },
+  {
+    "id": 4,
+    "title": "The Rise of Oat Milk",
+    "date": "Feb 12, 2026",
+    "excerpt": "Why oat milk has become the gold standard for dairy-free coffee lovers around the world.",
+    "image": "https://images.unsplash.com/photo-1550461716-dbf266b2a8a7?auto=format&fit=crop&q=80&w=400&h=300"
+  },
+  {
+    "id": 5,
+    "title": "Sustainably Sourced Beans",
+    "date": "Feb 10, 2026",
+    "excerpt": "Learn about our commitment to direct trade and supporting coffee farmers globally.",
+    "image": "https://images.unsplash.com/photo-1459755484551-638ca552aa34?auto=format&fit=crop&q=80&w=400&h=300"
+  },
+  {
+    "id": 6,
+    "title": "Cold Brew vs. Iced Coffee",
+    "date": "Feb 05, 2026",
+    "excerpt": "What's the difference? We break down the science of cold caffeine extraction.",
+    "image": "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?auto=format&fit=crop&q=80&w=400&h=300"
+  },
+  {
+    "id": 7,
+    "title": "Coffee and Creativity",
+    "date": "Feb 01, 2026",
+    "excerpt": "How a simple cup of coffee can boost your productivity and spark new ideas.",
+    "image": "https://images.unsplash.com/photo-1497933321189-ef3473bb5dfa?auto=format&fit=crop&q=80&w=400&h=300"
+  },
+  {
+    "id": 8,
+    "title": "Our Seasonal Spring Menu",
+    "date": "Jan 28, 2026",
+    "excerpt": "Introducing Lavender Lattes and Honey-Infused Cold Brews for the upcoming season.",
+    "image": "https://images.unsplash.com/photo-1541167760496-1628856ab772?auto=format&fit=crop&q=80&w=400&h=300"
+  },
+  {
+    "id": 9,
+    "title": "The History of Java",
+    "date": "Jan 25, 2026",
+    "excerpt": "A deep dive into where the nickname 'Java' for coffee actually comes from.",
+    "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&q=80&w=400&h=300"
+  },
+  {
+    "id": 10,
+    "title": "Morning Rituals",
+    "date": "Jan 20, 2026",
+    "excerpt": "How starting your day with intention (and coffee) can change your entire outlook.",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&q=80&w=400&h=300"
+  }
+]
